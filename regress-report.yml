@@ -119,6 +119,10 @@ test-cases:
   - summary: |
       Успешное оформление заказа
     status: fail
+  
+  - summary: |
+      Успешный переход при нажатии на название магазина
+    status: pass
 
 bugreports:
   - summary: |
