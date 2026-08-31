@@ -127,7 +127,7 @@ bugreports:
       Яндекс Браузер версия 26.6.5.631 (64-bit)
       ОС Windows 11 Pro 26H1 28000.2704
     steps-to-reproduce: |
-      1. Зайти на страницу сайта — https://products-store.hexlet.app/
+      1. Зайти на страницу сайта - https://products-store.hexlet.app/
       2. Нажать на кнопку 'Language' в шапке сайта.
       3. В всплывающей форме выбрать язык 'Russian'.
       4. Нажать кнопку 'Store'.
@@ -142,7 +142,7 @@ bugreports:
       Яндекс Браузер версия 26.6.5.631 (64-bit)
       ОС Windows 11 Pro 26H1 28000.2704
     prerequisites: |
-      Открыта главная страница — https://products-store.hexlet.app/
+      Открыта главная страница - https://products-store.hexlet.app/
       Открыт инструмент DevTools на вкладке Network
     steps-to-reproduce: |
       1. Нажать на кнопку 'Store' в шапке сайта.
@@ -157,7 +157,7 @@ bugreports:
       Яндекс Браузер версия 26.6.5.631 (64-bit)
       ОС Windows 11 Pro 26H1 28000.2704
     prerequisites: |
-      Открыта главная страница — https://products-store.hexlet.app/
+      Открыта главная страница - https://products-store.hexlet.app/
     steps-to-reproduce: |
       1. Ввести в поисковую строку заведомо несуществующий товар 'qwerty12345'
     expected-result: |
