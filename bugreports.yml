@@ -5,7 +5,7 @@
     Яндекс Браузер версия 26.6.5.631 (64-bit)
     ОС Windows 11 Pro 26H1 28000.2704
   prerequisites: |
-    Открыта главная страница — https://products-store.hexlet.app/
+    Открыта главная страница - https://products-store.hexlet.app/
   steps-to-reproduce: |
     1. Перейти на 2-ю или 3-ю страницу каталога товаров с помощью кнопки 'Next'.
     2. Применить любой фильтр (например, выбрать бренд 'Apple' или категорию 'Beauty').
@@ -22,7 +22,7 @@
     Яндекс Браузер версия 26.6.5.631 (64-bit)
     ОС Windows 11 Pro 26H1 28000.2704
   prerequisites: |
-    Открыта главная страница — https://products-store.hexlet.app/
+    Открыта главная страница - https://products-store.hexlet.app/
   steps-to-reproduce: |
     1. В форме фильтрации по цене 'From-To:' ввести значения '10' и '20'.
   expected-result: |
@@ -36,7 +36,7 @@
     Яндекс Браузер версия 26.6.5.631 (64-bit)
     ОС Windows 11 Pro 26H1 28000.2704
   prerequisites: |
-    Открыта страница корзины — https://products-store.hexlet.app/cart
+    Открыта страница корзины - https://products-store.hexlet.app/cart
     В корзину добавлен товар
   steps-to-reproduce: |
     1. Нажать кнопку 'Checkout'.
@@ -51,7 +51,7 @@
     Яндекс Браузер версия 26.6.5.631 (64-bit)
     ОС Windows 11 Pro 26H1 28000.2704
   prerequisites: |
-    Открыта главная страница — https://products-store.hexlet.app/
+    Открыта главная страница - https://products-store.hexlet.app/
     Открыт инструмент DevTools
   steps-to-reproduce: |
     1. В DevTools переключиться на мобильное отображение сайта по кнопке 'Toggle device toolbar' или комбинацией (Ctrl + Shift + M).
@@ -72,7 +72,7 @@
     Яндекс Браузер версия 26.6.5.631 (64-bit)
     ОС Windows 11 Pro 26H1 28000.2704
   prerequisites: |
-    Открыта главная страница — https://products-store.hexlet.app/
+    Открыта главная страница - https://products-store.hexlet.app/
   steps-to-reproduce: |
     1. Оценить визуальное оформление и расположение блоков на главной странице.
   expected-result: |
@@ -87,7 +87,7 @@
     Яндекс Браузер версия 26.6.5.631 (64-bit)
     ОС Windows 11 Pro 26H1 28000.2704
   prerequisites: |
-    Открыта главная страница — https://products-store.hexlet.app/
+    Открыта главная страница - https://products-store.hexlet.app/
   steps-to-reproduce: |
     1. Нажать кнопку 'Language' в шапке сайта.
     2. Выбрать язык 'Russian' из выпадающего списка.
@@ -102,7 +102,7 @@
     Яндекс Браузер версия 26.6.5.631 (64-bit)
     ОС Windows 11 Pro 26H1 28000.2704
   prerequisites: |
-    Открыта главная страница — https://products-store.hexlet.app/
+    Открыта главная страница - https://products-store.hexlet.app/
   steps-to-reproduce: |
     1. Нажать кнопку 'Language' в шапке сайта.
     2. Выбрать язык 'Russian' или 'Spanish' из выпадающего списка.
@@ -118,7 +118,7 @@
     Яндекс Браузер версия 26.6.5.631 (64-bit)
     ОС Windows 11 Pro 26H1 28000.2704
   prerequisites: |
-    Открыта главная страница — https://products-store.hexlet.app/
+    Открыта главная страница - https://products-store.hexlet.app/
   steps-to-reproduce: |
     1. Нажать кнопку 'Language' в шапке сайта.
     2. Выбрать язык 'Spanish' из выпадающего списка.
@@ -136,7 +136,7 @@
     ОС Windows 11 Pro 26H1 28000.2704
   prerequisites: |
     Добавлен товар в корзину
-    Открыта страница корзины — https://products-store.hexlet.app/cart
+    Открыта страница корзины - https://products-store.hexlet.app/cart
   steps-to-reproduce: |
     1. Нажать кнопку 'Checkout'
     2. В открывшемся окне нажать крестик
@@ -151,7 +151,7 @@
     Яндекс Браузер версия 26.6.5.631 (64-bit)
     ОС Windows 11 Pro 26H1 28000.2704
   prerequisites: |
-    Открыта главная страница — https://products-store.hexlet.app/
+    Открыта главная страница - https://products-store.hexlet.app/
   steps-to-reproduce: |
     1. Добавить 5 товаров в корзину
     2. Нажать кнопку 'Cart'
@@ -169,7 +169,7 @@
     ОС Windows 11 Pro 26H1 28000.2704
   prerequisites: |
     Добавлен товар в корзину
-    Открыта страница корзины — https://products-store.hexlet.app/cart
+    Открыта страница корзины - https://products-store.hexlet.app/cart
   steps-to-reproduce: |
     1. Нажать кнопку 'Checkout'
     2. В открывшемся окне нажать кнопку 'close'
@@ -185,7 +185,7 @@
     Яндекс Браузер версия 26.6.5.631 (64-bit)
     ОС Windows 11 Pro 26H1 28000.2704
   prerequisites: |
-    Открыта главная страница — https://products-store.hexlet.app/
+    Открыта главная страница - https://products-store.hexlet.app/
   steps-to-reproduce: |
     1. Проверить корректное отображение названия, рейтинга, цены со скидкой и без скидки товара на главном экране
     2. Нажать на просматриваемый товар
@@ -201,7 +201,7 @@
     Яндекс Браузер версия 26.6.5.631 (64-bit)
     ОС Windows 11 Pro 26H1 28000.2704
   prerequisites: |
-    Открыта главная страница — https://products-store.hexlet.app/
+    Открыта главная страница - https://products-store.hexlet.app/
   steps-to-reproduce: |
     1. Нажать на форму смены языка
     2. Посмотреть на кнопку 'English'
@@ -218,7 +218,7 @@
     Яндекс Браузер версия 26.6.5.631 (64-bit)
     ОС Windows 11 Pro 26H1 28000.2704
   prerequisites: |
-    Открыта главная страница — https://products-store.hexlet.app/
+    Открыта главная страница - https://products-store.hexlet.app/
   steps-to-reproduce: |
     1. Навести курсор мыши на свободную область рядом с границей карточки товара (за её рамкой)
     2. Выполнить клик левой кнопкой мыши
@@ -246,3 +246,17 @@
     Запрос POST /orders возвращает статус 200 OK, отображается уведомление об успешном оформлении заказа.
   actual-result: |
     Запрос POST /orders возвращает статус 500 Internal Server Error, но в UI отображается уведомление об успешном оформлении заказа.
+
+- summary: |
+    Не переходит на главную страницу сайта при нажатии на название сайта
+  environment: |
+    Яндекс Браузер версия 26.6.5.631 (64-bit)
+    ОС Windows 11 Pro 26H1 28000.2704
+  prerequisites: |
+    Открыта страница корзины - https://products-store.hexlet.app/cart
+  steps-to-reproduce: |
+    1. Нажимаем на название сайта 'Hexlet store'
+  expected-result: |
+    Выполняется успешный переход на главную страницу
+  actual-result: |
+    Переход не осуществляется
