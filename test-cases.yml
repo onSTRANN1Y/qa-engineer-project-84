@@ -18,7 +18,7 @@
   requirement: |
     Удаление товара из корзины работает корректно
   prerequisites: |
-    Открыта страница корзины — https://products-store.hexlet.app/cart
+    Открыта страница корзины - https://products-store.hexlet.app/cart
     В корзину добавлен товар
   test-data: |
     Нет
@@ -32,7 +32,7 @@
   requirement: |
     Поиск товара по ключевому слову или полному названию должен корректно работать
   prerequisites: |
-    Открыта главная страница — https://products-store.hexlet.app/
+    Открыта главная страница - https://products-store.hexlet.app/
   test-data: |
     Нет
   steps:
@@ -45,7 +45,7 @@
   requirement: |
     Фильтрация товара по категории должна выдавать весь товар только из выбранной категории
   prerequisites: |
-    Открыта главная страница — https://products-store.hexlet.app/
+    Открыта главная страница - https://products-store.hexlet.app/
   test-data: |
     Нет
   steps:
@@ -59,7 +59,7 @@
   requirement: |
     Фильтрация товара по бренду должна выдавать весь товар только из выбранного бренда
   prerequisites: |
-    Открыта главная страница — https://products-store.hexlet.app/
+    Открыта главная страница - https://products-store.hexlet.app/
   test-data: |
     Нет
   steps:
@@ -72,7 +72,7 @@
   requirement: |
     Товар фильтруется из выбранного диапазона с учетом скидок
   prerequisites: |
-    Открыта главная страница — https://products-store.hexlet.app/
+    Открыта главная страница - https://products-store.hexlet.app/
   test-data: |
     Нет
   steps:
@@ -85,7 +85,7 @@
   requirement: |
     Фильтрация товара по наличию должна корректно работать
   prerequisites: |
-    Открыта главная страница — https://products-store.hexlet.app/
+    Открыта главная страница - https://products-store.hexlet.app/
   test-data: |
     Нет
   steps:
@@ -98,7 +98,7 @@
   requirement: |
     Пользователь должен иметь возможность просматривать товары и просматривать подробную информацию о товаре
   prerequisites: |
-    Открыта главная страница — https://products-store.hexlet.app/
+    Открыта главная страница - https://products-store.hexlet.app/
   test-data: |
     Нет
   steps:
@@ -114,7 +114,7 @@
   requirement: |
     На странице товара и в каталоге должно корректно выводиться название, рейтинг товара, цена со скидкой и без скидки
   prerequisites: |
-    Открыта главная страница — https://products-store.hexlet.app/
+    Открыта главная страница - https://products-store.hexlet.app/
   test-data: |
     Нет
   steps:
@@ -129,7 +129,7 @@
   requirement: |
     При смене языка на русский язык, весь текст интерфейса должен отображаться на русском языке
   prerequisites: |
-    Открыта главная страница — https://products-store.hexlet.app/
+    Открыта главная страница - https://products-store.hexlet.app/
     Изначально язык интерфейса 'English'
   test-data: |
     Нет
@@ -144,7 +144,7 @@
   requirement: |
     При смене языка на испанский язык, весь текст интерфейса должен отображаться на испанском языке
   prerequisites: |
-    Открыта главная страница — https://products-store.hexlet.app/
+    Открыта главная страница - https://products-store.hexlet.app/
     Изначально язык интерфейса 'English'
   test-data: |
     Нет
@@ -159,7 +159,7 @@
   requirement: |
     Сайт должен быть SPA-приложением, которое не перезагружает страницу
   prerequisites: |
-    Открыта главная страница — https://products-store.hexlet.app/
+    Открыта главная страница - https://products-store.hexlet.app/
     Открыт инструмент DevTools на вкладке Network с фильтром 'Fetch/XHR'
   test-data: |
     Нет
@@ -178,7 +178,7 @@
   requirement: |
     Сайт должен иметь постраничный вывод товара
   prerequisites: |
-    Открыта главная страница — https://products-store.hexlet.app/
+    Открыта главная страница - https://products-store.hexlet.app/
   test-data: |
     Нет
   steps:
@@ -192,7 +192,7 @@
   requirement: |
     Оформление заказа должно происходить с переходом на страницу оплаты
   prerequisites: |
-    Открыта страница корзины — https://products-store.hexlet.app/cart
+    Открыта страница корзины - https://products-store.hexlet.app/cart
     В корзине имеется товар
   test-data: |
     Нет
@@ -206,7 +206,7 @@
   requirement: |
     Сайт должен иметь мобильную версию
   prerequisites: |
-    Открыта главная страница — https://products-store.hexlet.app/
+    Открыта главная страница - https://products-store.hexlet.app/
     Открыт инструмент DevTools
   test-data: |
     Нет
@@ -223,7 +223,7 @@
   requirement: |
     Сайт должен быть безопасным и защищать данные пользователя
   prerequisites: |
-    Открыта главная страница — https://products-store.hexlet.app/
+    Открыта главная страница - https://products-store.hexlet.app/
   test-data: |
     Нет
   steps:
@@ -236,7 +236,7 @@
   requirement: |
     Сайт нужно разработать с учетом удобства использования
   prerequisites: |
-    Открыта главная страница — https://products-store.hexlet.app/
+    Открыта главная страница - https://products-store.hexlet.app/
   test-data: |
     Нет
   steps:
@@ -266,7 +266,7 @@
   requirement: |
     Сайт должен быть доступен на различных устройствах
   prerequisites: |
-    Открыта главная страница — https://products-store.hexlet.app/
+    Открыта главная страница - https://products-store.hexlet.app/
   test-data: |
     Нет
   steps:
@@ -285,7 +285,7 @@
   test-data: |
     Нет
   steps:
-    - Зайти на главную страницу сайта — https://products-store.hexlet.app/
+    - Зайти на главную страницу сайта - https://products-store.hexlet.app/
   expected-result: |
     Сайт загрузился и полностью доступен без использования VPN
 
@@ -294,7 +294,7 @@
   requirement: |
     Сайт должен иметь локализацию (перевод) на английский язык
   prerequisites: |
-    Открыта главная страница — https://products-store.hexlet.app/
+    Открыта главная страница - https://products-store.hexlet.app/
   test-data: |
     Нет
   steps:
@@ -311,7 +311,7 @@
   requirement: |
     Сайт должен иметь локализацию (перевод) на русский язык
   prerequisites: |
-    Открыта главная страница — https://products-store.hexlet.app/
+    Открыта главная страница - https://products-store.hexlet.app/
     Язык сайта выбран русский
   test-data: |
     Нет
@@ -327,7 +327,7 @@
   requirement: |
     На странице товара и в каталоге должно выводиться название, рейтинг, цена со скидкой и без нее
   prerequisites: |
-    Открыта главная страница — https://products-store.hexlet.app/
+    Открыта главная страница - https://products-store.hexlet.app/
   test-data: |
     Нет
   steps:
@@ -342,7 +342,7 @@
   requirement: |
     При обновлении страницы ранее выбранный язык интерфейса не изменится на другой
   prerequisites: |
-    Открыта главная страница — https://products-store.hexlet.app/
+    Открыта главная страница - https://products-store.hexlet.app/
     Изначально язык интерфейса 'English'
   test-data: |
     Нет
@@ -359,7 +359,7 @@
     При обновлении страницы сайта, ранее добавленный в корзину товар должен сохраняться
   prerequisites: |
     Добавлен товар в корзину
-    Открыта главная страница — https://products-store.hexlet.app/
+    Открыта главная страница - https://products-store.hexlet.app/
   test-data: |
     Нет
   steps:
@@ -373,7 +373,7 @@
   requirement: |
     При смене языка интерфейса на испанский элементы UI сохраняют целостность верстки
   prerequisites: |
-    Открыта главная страница — https://products-store.hexlet.app/
+    Открыта главная страница - https://products-store.hexlet.app/
   test-data: |
     Нет
   steps:
@@ -390,7 +390,7 @@
     Уведомление после оформления заказа без проблем закрывается
   prerequisites: |
     Добавлен товар в корзину
-    Открыта страница корзины — https://products-store.hexlet.app/cart
+    Открыта страница корзины - https://products-store.hexlet.app/cart
   test-data: |
     Нет
   steps:
@@ -404,7 +404,7 @@
   requirement: |
     Можно добавить несколько товаров в корзину
   prerequisites: |
-    Открыта страница корзины — https://products-store.hexlet.app/
+    Открыта страница корзины - https://products-store.hexlet.app/
   test-data: |
     Нет
   steps:
@@ -420,7 +420,7 @@
     После оформления заказа весь ранее находящийся в ней товар должен быть удален и корзина должна стать пустой
   prerequisites: |
     Добавлен товар в корзину
-    Открыта страница корзины — https://products-store.hexlet.app/cart
+    Открыта страница корзины - https://products-store.hexlet.app/cart
   test-data: |
     Нет
   steps:
@@ -443,3 +443,16 @@
     - Нажимаем кнопку оформления заказа 'checkout'
   expected-result: |
     Выводится всплывающее окно с сообщением об успешном оформлении заказа. В DevTools появилась строка с именем 'orders' и статус-кодом '200'
+
+- summary: |
+    Успешный переход при нажатии на название магазина
+  requirement: |
+    При нажатии на название магазина 'Hexlet store' выполняется переход на главная страница
+  prerequisites: |
+    Открыта страница корзины - https://products-store.hexlet.app/cart
+  test-data: |
+    Нет
+  steps:
+    - Нажимаем на название сайта 'Hexlet store'
+  expected-result: |
+    Выполняется успешный переход на главную страницу
